@@ -1,0 +1,52 @@
+{
+   "@id":"",
+   "xsdkEdit:StructTest":{
+      "xsdkEdit:Struct2":{
+         "photoshop:LayerText":"Value2_lmalik",
+         "photoshop:LayerName":{
+            "@language":"fr",
+            "@value":"Value_lmalik"
+         },
+         "@context":{
+            "@language":"en"
+         }
+      },
+      "rdf:value":"Value2"
+   },
+   "xmp:BaseURL":{
+      "rdf:value":{
+         "@id":"http://www.adobe.com/"
+      },
+      "xe:qualifier":"artificial example"
+   },
+   "dc:source":{
+      "xe:qualifier":"artificial example",
+      "@context":{
+         "@language":"fr"
+      },
+      "rdf:value":"Adobe XMP Specification, April 2010"
+   },
+   "@context":{
+      "dc":"http://purl.org/dc/elements/1.1/",
+      "xe":"http://ns.adobe.com/xmp-example/",
+      "rdf":"http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "xsdkEdit":"http://ns.adobe/meta/sdk/Edit/",
+      "xmp":"http://ns.adobe.com/xap/1.0/",
+      "photoshop":"http://ns.adobe.com/photoshop/1.0/"
+   },
+   "xsdkEdit:Array5":{
+      "xsdkEdit:ArrayQualifier":"ValueofBase",
+      "rdf:value":{
+         "@set":[
+            {
+               "@language":"fr",
+               "@value":"Value11"
+            },
+            "Value12"
+         ]
+      },
+      "@context":{
+         "@language":"en"
+      }
+   }
+}

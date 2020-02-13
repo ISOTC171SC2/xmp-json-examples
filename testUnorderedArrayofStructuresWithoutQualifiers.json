@@ -1,0 +1,26 @@
+{
+	"@id":"",  
+   "photoshop:TextLayers":{  
+      "@list":[  
+         {  
+            "photoshop:LayerText":"Value2",
+            "photoshop:LayerName":"Value1"
+         },
+         {  
+            "photoshop:LayerText":"Value2",
+            "photoshop:LayerName":"Value4"
+         },
+         {  
+            "photoshop:LayerText":"Value2",
+            "photoshop:LayerName":"Value5"
+         },
+         {  
+            "photoshop:LayerText":"Value2",
+            "photoshop:LayerName":"Value13"
+         }
+      ]
+   },
+   "@context":{  
+      "photoshop":"http://ns.adobe.com/photoshop/1.0/"
+   }
+}

@@ -1,0 +1,29 @@
+{
+   "@id":"",
+   "xsdkEdit:StructTest":{
+      "xsdkEdit:Struct2":{
+         "photoshop:LayerText":"Value2_lmalik",
+         "photoshop:LayerName":{
+            "photoshop:Qual":"Qual",
+            "rdf:value":"Value_lmalik"
+         },
+         "@context":{
+            "@language":"en"
+         }
+      },
+      "rdf:value":"Value2"
+   },
+   "dc:ValueNode":{
+      "dc:simpleQual":{
+         "dc:QualonQual4":"hehe",
+         "rdf:value":"priyanka"
+      },
+      "rdf:value":"qualfiledcnl"
+   },
+   "@context":{
+      "dc":"http://purl.org/dc/elements/1.1/",
+      "rdf":"http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "xsdkEdit":"http://ns.adobe/meta/sdk/Edit/",
+      "photoshop":"http://ns.adobe.com/photoshop/1.0/"
+   }
+}

@@ -1,0 +1,50 @@
+<?xpacket begin="Ã¯Â»Â¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c137 1.000000, 0000/00/00-00:00:00 (debug)">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+			xmlns:xsdkEdit="http://ns.adobe/meta/sdk/Edit/"
+			xmlns:xsdkUser="http://ns.adobe/meta/sdk/User/"
+			xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+			xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+			xmlns:xe="http://ns.adobe.com/xmp-example/"
+			xmlns:dc="http://purl.org/dc/elements/1.1/">
+         
+         
+        <xmp:BaseURL>
+		<rdf:Description>
+		<rdf:value rdf:resource="http://www.adobe.com/"/>
+		<xe:qualifier>artificial example</xe:qualifier>
+		</rdf:Description>
+		</xmp:BaseURL>	
+		
+		<dc:source>
+		<rdf:Description>
+		<rdf:value xml:lang="fr">Adobe XMP Specification, April 2010</rdf:value>
+		<xe:qualifier>artificial example</xe:qualifier>
+		</rdf:Description>
+		</dc:source>
+        
+        <xsdkEdit:Array5 xml:lang="en" rdf:parseType="Resource">
+            <rdf:value>
+               <rdf:Bag>
+                  <rdf:li xml:lang="fr" >Value11</rdf:li>
+                  <rdf:li>Value12</rdf:li>
+               </rdf:Bag>
+            </rdf:value>
+            <xsdkEdit:ArrayQualifier>ValueofBase</xsdkEdit:ArrayQualifier>
+         </xsdkEdit:Array5>	
+         
+         <xsdkEdit:StructTest rdf:parseType="Resource">
+            <rdf:value>Value2</rdf:value>
+            <xsdkEdit:Struct2 xml:lang="en" rdf:parseType="Resource">
+              <photoshop:LayerName xml:lang="fr">Value_lmalik</photoshop:LayerName>
+                  <photoshop:LayerText>Value2_lmalik</photoshop:LayerText>
+            </xsdkEdit:Struct2>
+         </xsdkEdit:StructTest>
+         
+      </rdf:Description>
+      
+      
+   </rdf:RDF>
+</x:xmpmeta>                      
+<?xpacket end="w"?>
